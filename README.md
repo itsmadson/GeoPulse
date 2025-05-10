@@ -82,6 +82,3 @@
    ```
 
    Alternatively, configure your backend to serve the static files.
-
----
-
