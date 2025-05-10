@@ -1,6 +1,7 @@
 # GeoServer Status Monitor
 
 **GeoServer Status Monitor** is a full-stack application designed to monitor and visualize real-time system metrics from a GeoServer instance. It features a FastAPI backend that interfaces with GeoServer's status endpoint and a React frontend built with Vite.
+
 ---
 
 ## 🚀 Features
